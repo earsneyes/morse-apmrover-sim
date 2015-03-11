@@ -61,7 +61,7 @@ cd rover-sim/simulation
 
 # in term 3, start APMRover2
 cd ardupilot/APMRover2
-./APMRover2
+./APMRover2.elf
 
 # in term 4, start MAVProxy.
 ./rover-sim/scripts/start-mavproxy.sh
